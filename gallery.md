@@ -1,14 +1,17 @@
-  <div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide">
-				<img src="https://cdn.modrinth.com/data/4mbynavb/images/776a55ddce0aa74997be98a42b17edbf91b1dda8.png" alt="Uncoloured">
-			</li>
-			<li class="splide__slide">
-				<img src="https://cdn.modrinth.com/data/4mbynavb/images/f99fee899f2c0850d1c722ce4acc962c42c83586.png" alt="Black">
-			</li>
-			<li class="splide__slide">
-				<img src="https://cdn.modrinth.com/data/4mbynavb/images/4debcecdcd454a21196b3d90d6cef18f50cc1c9c.png" alt="Blue">
-			</li>
-		</ul>
-  </div>
-</section>
+![Uncoloured](https://cdn.modrinth.com/data/4mbynavb/images/776a55ddce0aa74997be98a42b17edbf91b1dda8.png)
+![Pink](https://cdn.modrinth.com/data/4mbynavb/images/5d49086072a24fd28c19b519a7ec664083b6105d.png)
+![Magenta](https://cdn.modrinth.com/data/4mbynavb/images/c9ad2f762c4f8569c802f4d61e46ba7271d0741d.png)
+![Purple](https://cdn.modrinth.com/data/4mbynavb/images/7218b21783615eac031dff34f9d8d0d987ebac56.png)
+![Blue](https://cdn.modrinth.com/data/4mbynavb/images/4debcecdcd454a21196b3d90d6cef18f50cc1c9c.png)
+![Light Blue](https://cdn.modrinth.com/data/4mbynavb/images/e93dae0c7517f98598781d100d857f2f07277819.png)
+![Turquoise](https://cdn.modrinth.com/data/4mbynavb/images/5cbe20b9016c7bbfc663533e33ed3aec245a9a67.png)
+![Light Green](https://cdn.modrinth.com/data/4mbynavb/images/cdf00b4c5d6978a17e43a85d4e11bab51d300054.png)
+![Green](https://cdn.modrinth.com/data/4mbynavb/images/bf374de7ca883859ab869e4c5efd65380a3a9546.png)
+![Yellow](https://cdn.modrinth.com/data/4mbynavb/images/66bfc96f882e2089da62fa6c26947a3a3aab8b78.png)
+![Orange](https://cdn.modrinth.com/data/4mbynavb/images/a6b9eb543b7cb9051b9cc6660373d91475aa52b1.png)
+![Red](https://cdn.modrinth.com/data/4mbynavb/images/a79b7409930b5b5bb9783040dfd6d9f45703fb57.png)
+![Brown](https://cdn.modrinth.com/data/4mbynavb/images/8ecc297f6fed718097ef4aa20bf680a501278e55.png)
+![Black](https://cdn.modrinth.com/data/4mbynavb/images/f99fee899f2c0850d1c722ce4acc962c42c83586.png)
+![Gray](https://cdn.modrinth.com/data/4mbynavb/images/ef4577f052586eebf2a2423dced4e961773f4aac.png)
+![Light Gray](https://cdn.modrinth.com/data/4mbynavb/images/237fa0446eb75cb902261f12fcd814906324c661.png)
+![White](https://cdn.modrinth.com/data/4mbynavb/images/cb416a0262751ba20728ff578499586487ca740e.png)
